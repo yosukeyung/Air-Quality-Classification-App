@@ -223,6 +223,7 @@ def show_home():
     <!-- Bagian Team Members Ditambahkan Di Sini -->
     <div class="card">
         <h3 style="color: #2f855a; margin-top: 0; margin-bottom: 15px;">👨‍💻 Team Members</h3>
+        <p style="color: #4a5568; font-weight: 600; font-size: 16px; margin-top: 0; margin-bottom: 15px;">🏛️ BINUS University</p>
         <ul style="margin-bottom: 0; font-size: 16px; line-height: 1.8; list-style-type: none; padding-left: 0;">
             <li>👤 <b>Yosuke Yung</b> - 2802428066</li>
             <li>👤 <b>Wisely Janson Halim</b> - 2802467382</li>
