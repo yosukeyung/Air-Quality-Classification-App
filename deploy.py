@@ -224,9 +224,9 @@ def show_home():
     <div class="card">
         <h3 style="color: #2f855a; margin-top: 0; margin-bottom: 15px;">👨‍💻 Team Members</h3>
         <ul style="margin-bottom: 0; font-size: 16px; line-height: 1.8; list-style-type: none; padding-left: 0;">
-            <li>👤 <b>[Yosuke Yung]</b> - [2802428066]</li>
-            <li>👤 <b>[Wisely Janson Halim]</b> - [2802467382]</li>
-            <li>👤 <b>[Marcellino Varian Saputra]</b> - [2802457652]</li>
+            <li>👤 <b>Yosuke Yung</b> - 2802428066</li>
+            <li>👤 <b>Wisely Janson Halim</b> - 2802467382</li>
+            <li>👤 <b>Marcellino Varian Saputra</b> - 2802457652</li>
         </ul>
     </div>
     """, unsafe_allow_html=True)
