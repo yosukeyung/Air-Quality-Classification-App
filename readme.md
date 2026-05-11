@@ -5,37 +5,59 @@
 
 ## 📖 Project Overview
 
-Monitoring air quality is crucial for public health and environmental planning. This project utilizes a dataset of 5000 records containing various environmental metrics (pollutant concentrations, temperature, humidity) to build a robust classification model.
+This project provides a comprehensive solution for monitoring and predicting air quality. Using a dataset of 5,000 environmental records, I developed a machine learning pipeline that covers everything from raw data exploration to a fully functional web deployment.
 
-The project is divided into two main parts:
+The application allows users to visualize environmental trends, train multiple classification models (Logistic Regression, Random Forest, XGBoost), and perform real-time testing with custom inputs.
 
-1. **Model Development (`ass.ipynb`):** A comprehensive Jupyter Notebook covering data exploration, preprocessing, and the training of the classification model.
-2. **Web Deployment (`deploy.py`):** A dynamic, multi-page Streamlit application that allows users to interact with the data, visualize insights, and test the model in real-time.
+## ✨ Key Features
 
-## ✨ Key Features (Streamlit Dashboard)
-
-- **🏠 Home:** Project introduction and dataset overview.
-- **📊 Exploratory Data Analysis (EDA):** Interactive charts (powered by Plotly) to uncover data distributions and feature correlations.
-- **🛠️ Preprocessing:** Options to handle data scaling (StandardScaler, MinMaxScaler, RobustScaler) and split the dataset.
-- **⚙️ Model:** Train various algorithms on the fly, including **Logistic Regression, Random Forest, and XGBoost**.
-- **📈 Evaluation:** Visual performance metrics including Classification Reports, Confusion Matrices, and ROC-AUC curves.
-- **🧪 Testing:** A user-friendly interface to input custom environmental parameters and instantly get an air quality prediction.
+- **📊 Interactive EDA:** Deep dive into pollutant distributions and correlations using Plotly.
+- **🛠️ Flexible Preprocessing:** Toggle between different scalers (Standard, MinMax, Robust) to see how they affect model performance.
+- **⚙️ Dynamic Training:** Train and compare different algorithms directly from the UI.
+- **📈 Comprehensive Evaluation:** View detailed metrics including Confusion Matrices and ROC-AUC curves.
+- **🧪 Real-time Prediction:** Input custom parameters to instantly classify air quality levels.
 
 ## 🛠️ Tech Stack
 
 - **Python 3** 🐍
-- **Streamlit** 👑 (For the interactive web interface and custom UI styling)
-- **Scikit-Learn & XGBoost** 🤖 (For machine learning pipelines and algorithms)
-- **Pandas & NumPy** 📊 (For data manipulation)
-- **Plotly** 📈 (For beautiful, interactive data visualizations)
+- **Streamlit** 👑 (Web Framework & UI)
+- **Scikit-Learn & XGBoost** 🤖 (ML Models)
+- **Pandas & NumPy** 📊 (Data Processing)
+- **Plotly** 📈 (Interactive Visualizations)
+
+## 📂 Project Structure
+
+```text
+├── air_quality.csv             # Raw air quality data
+├── ass.ipynb            # Jupyter Notebook for EDA and model development
+├── deploy.py            # Main Streamlit application script
+├── model.pkl            # Pre-trained serialized classification model
+├── requirements.txt     # List of Python dependencies required to run the app
+└── README.md            # Project documentation
+```
 
 ## 🚀 How to Run Locally
 
-Follow these steps to run the Streamlit dashboard on your local machine:
-
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/yosukeyung/Air-Quality-Classification-App.git](https://github.com/yosukeyung/Air-Quality-Classification-App.git)
+cd Air-Quality-Classification-App
 ```
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the App
+
+```bash
+streamlit run deploy.py
+```
+
+## 👨‍💻 Author
+
+Yosuke Yung
+_CS Student @ BINUS UNIVERSITY_
