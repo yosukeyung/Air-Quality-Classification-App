@@ -3,6 +3,7 @@
 > **An interactive end-to-end Machine Learning web application to predict and classify air quality levels based on environmental and demographic features.**
 > _Built as a Machine Learning university course project! 🚀_
 >
+> **Status:** 🏁 Completed
 > **Project Type:** Group Project
 
 ## 📖 Project Overview
