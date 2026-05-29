@@ -5,13 +5,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1582e6?style=flat&logo=xgboost&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+![Type](https://img.shields.io/badge/Type-Group_Project-8A2BE2)
 
 > **An interactive end-to-end Machine Learning web application to predict and classify air quality levels based on environmental and demographic features.**
 > _Built as a Machine Learning university course project! 🚀_
->
-> **Status:** 🏁 Completed
-> 
-> **Project Type:** Group Project
 
 ## 📖 Project Overview
 
