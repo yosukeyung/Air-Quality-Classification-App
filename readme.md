@@ -4,6 +4,7 @@
 > _Built as a Machine Learning university course project! 🚀_
 >
 > **Status:** 🏁 Completed
+> 
 > **Project Type:** Group Project
 
 ## 📖 Project Overview
