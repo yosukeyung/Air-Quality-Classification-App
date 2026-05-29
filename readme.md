@@ -1,5 +1,11 @@
 # 🌍 Air Quality Classification App 🍃
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1582e6?style=flat&logo=xgboost&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 > **An interactive end-to-end Machine Learning web application to predict and classify air quality levels based on environmental and demographic features.**
 > _Built as a Machine Learning university course project! 🚀_
 >
