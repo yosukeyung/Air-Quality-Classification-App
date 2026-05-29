@@ -17,6 +17,14 @@ The application allows users to visualize environmental trends, train multiple c
 - **📈 Comprehensive Evaluation:** View detailed metrics including Confusion Matrices and ROC-AUC curves.
 - **🧪 Real-time Prediction:** Input custom parameters to instantly classify air quality levels.
 
+## 🤝 My Role & Contributions
+
+In this project, I was responsible for the core data science lifecycle, handling everything from **Exploratory Data Analysis (EDA) through to Model Evaluation**. My specific contributions include:
+- **Exploratory Data Analysis (EDA):** Analyzing feature distributions, uncovering hidden patterns, and building interactive visualizations to understand environmental correlations.
+- **Data Preprocessing:** Engineering features and applying various scaling techniques (Standard, MinMax, Robust) to prepare the data for training.
+- **Model Training:** Designing and training multiple classification algorithms (Logistic Regression, Random Forest, XGBoost) to find the best-performing model.
+- **Model Evaluation:** Conducting rigorous testing using Classification Reports, Confusion Matrices, and ROC-AUC curves to ensure accurate and reliable air quality predictions.
+
 ## 🛠️ Tech Stack
 
 - **Python 3** 🐍
