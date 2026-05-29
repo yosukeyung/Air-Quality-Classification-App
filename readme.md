@@ -2,6 +2,8 @@
 
 > **An interactive end-to-end Machine Learning web application to predict and classify air quality levels based on environmental and demographic features.**
 > _Built as a Machine Learning university course project! 🚀_
+>
+> **Project Type:** Group Project
 
 ## 📖 Project Overview
 
@@ -19,7 +21,7 @@ The application allows users to visualize environmental trends, train multiple c
 
 ## 🤝 My Role & Contributions
 
-In this project, I was responsible for the core data science lifecycle, handling everything from **Exploratory Data Analysis (EDA) through to Model Evaluation**. My specific contributions include:
+In this group project, I was responsible for the core data science lifecycle, handling everything from **Exploratory Data Analysis (EDA) through to Model Evaluation**. My specific contributions include:
 - **Exploratory Data Analysis (EDA):** Analyzing feature distributions, uncovering hidden patterns, and building interactive visualizations to understand environmental correlations.
 - **Data Preprocessing:** Engineering features and applying various scaling techniques (Standard, MinMax, Robust) to prepare the data for training.
 - **Model Training:** Designing and training multiple classification algorithms (Logistic Regression, Random Forest, XGBoost) to find the best-performing model.
