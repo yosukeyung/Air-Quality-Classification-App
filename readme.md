@@ -53,7 +53,7 @@ In this group project, I was responsible for the core data science lifecycle, ha
 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/yosukeyung/Air-Quality-Classification-App.git](https://github.com/yosukeyung/Air-Quality-Classification-App.git)
+git clone https://github.com/yosukeyung/Air-Quality-Classification-App
 cd Air-Quality-Classification-App
 ```
 
