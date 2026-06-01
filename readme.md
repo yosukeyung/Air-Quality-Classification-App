@@ -9,6 +9,8 @@
 
 > **An interactive end-to-end Machine Learning web application to predict and classify air quality levels based on environmental and demographic features.**
 > _Built as a Machine Learning university course project! 🚀_
+>
+> **🌟 Try it out live:** [**Air Quality Prediction App**]([MASUKKAN_LINK_STREAMLIT_KAMU_DI_SINI])
 
 ## 📖 Project Overview
 
@@ -56,7 +58,7 @@ In this group project, I was responsible for the core data science lifecycle, ha
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yosukeyung/Air-Quality-Classification-App
+git clone [https://github.com/yosukeyung/Air-Quality-Classification-App](https://github.com/yosukeyung/Air-Quality-Classification-App)
 cd Air-Quality-Classification-App
 ```
 
